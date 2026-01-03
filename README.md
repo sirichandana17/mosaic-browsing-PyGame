@@ -65,4 +65,3 @@ mosaic-browsing-PyGame/
 ## 👩‍💻 Author
 
 **Siri Chandana Kanaparthi**  
-GitHub: https://github.com/sirichandana17
