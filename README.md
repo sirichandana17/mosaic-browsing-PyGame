@@ -48,7 +48,9 @@ The player must visually inspect the mosaic, select a 2×2 region, and verify wh
 8. Restart anytime to generate a new puzzle.
 
 ---
-## Project Structure
+## 📂 Project Structure
+
+```text
 mosaic-browsing-PyGame/
 │
 ├── mosaic-browsing_final.py   # Main game file
@@ -58,11 +60,9 @@ mosaic-browsing-PyGame/
 ├── mosaic_pic1.jpg            # Game image asset
 ├── README.md                  # Project documentation
 └── pyvenv.cfg                 # Virtual environment config
-
+```
 ---
-## Author
+## 👩‍💻 Author
 
-Siri Chandana Kanaparthi
-
----
-
+**Siri Chandana Kanaparthi**  
+GitHub: https://github.com/sirichandana17
