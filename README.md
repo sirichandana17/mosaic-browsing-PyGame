@@ -62,6 +62,23 @@ mosaic-browsing-PyGame/
 └── pyvenv.cfg                 # Virtual environment config
 ```
 ---
+
+## ▶️ How to Run the Game
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/sirichandana17/mosaic-browsing-PyGame.git
+cd mosaic-browsing-PyGame
+```
+### 2️⃣ Install Dependencies
+```bash
+pip install pygame
+```
+### 3️⃣ Run the Game
+```bash
+python mosaic-browsing_final.py
+```
+---
 ## 👩‍💻 Author
 
 **Siri Chandana Kanaparthi**  
